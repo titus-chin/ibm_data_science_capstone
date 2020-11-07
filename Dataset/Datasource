@@ -1,0 +1,8 @@
+https://services.arcgis.com/S9th0jAJ7bqgIRjw/arcgis/rest/services/Neighbourhood_MCI/FeatureServer/0/query?where=1%3D1&outFields=Neighbourhood,Hood_ID,Population,Assault_AVG,AutoTheft_AVG,Homicide_AVG,TheftOver_AVG,BreakandEnter_AVG,Robbery_AVG&outSR=4326&f=json
+
+
+from:
+https://data.torontopolice.on.ca/datasets/neighbourhood-crime-rates-boundary-file-?geometry=-79.598%2C43.673%2C-79.158%2C43.760&orderBy=OBJECTID&selectedAttribute=AutoTheft_Rate_2019
+
+toronto covid 19 cases
+https://www.toronto.ca/home/covid-19/covid-19-latest-city-of-toronto-news/covid-19-status-of-cases-in-toronto/
