@@ -143,3 +143,7 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1605351021373	Marionette	INFO	Listening on port 40093
 1605351021409	Marionette	WARN	TLS certificate errors will be ignored for this session
 1605352410884	Marionette	INFO	Stopped listening on port 40093
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
