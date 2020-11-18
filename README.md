@@ -1,2 +1,7 @@
-# ibm_data_science_capstone
-This repository is mainly about the capstone project for IBM Data Science Professioncal Certificate.
+# Toronto's Neighborhoods Recommender System
+Do you like Toronto? Do you wish to migrate to Canada and settle in Toronto one day? However, out of 140 neighborhoods in Toronto, which one should you choose? Don't worry, this recommender system can help you to decide which Toronto's neighborhood suit you best by comparing the job opportunities, cost of living, safety and culture of each neighborhood. Have fun!
+
+## Content
+*Data*: Contains data required to build the recommender system.
+*Toronto's_Neighborhoods_Recommender_System.ipynb*: Notebook showing codes to build the recommender system.
+*Toronto's_Neighborhoods_Recommender_System.pdf*: Full report of the recommender system.
