@@ -3,6 +3,6 @@ Do you like Toronto? Do you wish to migrate to Canada and settle in Toronto one 
 
 ## Content
 **Data**: Contains data required to build the recommender system.  
-**TNRS.ipynb**: Notebook showing codes to build the recommender system.
+**TNRS.ipynb**: Notebook showing codes to build the recommender system.  
 **TNRS.odt**: Full report of the recommender system (editable).  
 **TNRS.pdf**: Full report of the recommender system (view-only).  
