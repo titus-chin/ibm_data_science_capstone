@@ -11,13 +11,13 @@ Edenbridge-Humber Valley,9,English,Spanish,Ukrainian,Polish,Russian
 Princess-Rosethorn,10,English,Korean,Serbian,Mandarin,Ukrainian
 Eringate-Centennial-West Deane,11,English,Ukrainian,Serbian,Polish,Korean
 Markland Wood,12,English,Serbian,Ukrainian,Polish,Korean
-Etobicoke West Mall,13,English,Serbian,Ukrainian,Spanish,Polish
+Etobicoke West Mall,13,English,Serbian,Spanish,Ukrainian,Polish
 Islington-City Centre West,14,English,Korean,Ukrainian,Spanish,Serbian
-Kingsway South,15,English,Ukrainian,French,Polish,Cantonese
+Kingsway South,15,English,Ukrainian,French,Polish,Serbian
 Stonegate-Queensway,16,English,Ukrainian,Polish,Russian,Serbian
 Mimico (includes Humber Bay Shores),17,English,Polish,Spanish,Russian,Tibetan
 New Toronto,18,English,Polish,Spanish,Tagalog,Ukrainian
-Long Branch,19,English,Polish,Tagalog,Spanish,Ukrainian
+Long Branch,19,English,Polish,Tagalog,Ukrainian,Spanish
 Alderwood,20,English,Polish,Italian,Portuguese,Ukrainian
 Humber Summit,21,English,Italian,Urdu,Punjabi,Spanish
 Humbermede,22,English,Spanish,Urdu,Italian,Vietnamese
@@ -39,7 +39,7 @@ Willowdale West,37,English,Mandarin,Persian,Korean,Russian
 Lansing-Westgate,38,English,Persian,Korean,Mandarin,Russian
 Bedford Park-Nortown,39,English,Tagalog,Persian,Mandarin,Spanish
 St.Andrew-Windfields,40,English,Mandarin,Persian,Cantonese,Korean
-Bridle Path-Sunnybrook-York Mills,41,English,Mandarin,Persian,Cantonese,French
+Bridle Path-Sunnybrook-York Mills,41,English,Mandarin,Cantonese,Persian,French
 Banbury-Don Mills,42,English,Mandarin,Cantonese,Persian,Tagalog
 Victoria Village,43,English,Arabic,Tagalog,Greek,Persian
 Flemingdon Park,44,English,Urdu,Persian,Gujarati,Tagalog
@@ -59,7 +59,7 @@ Broadview North,57,English,Greek,Serbian,Albanian,Tagalog
 Old East York,58,English,Greek,Cantonese,Tagalog,Urdu
 Danforth East York,59,English,Greek,Cantonese,French,Italian
 Woodbine-Lumsden,60,English,Cantonese,Mandarin,Greek,Spanish
-Taylor-Massey,61,English,Bengali,Urdu,Cantonese,Tagalog
+Taylor-Massey,61,English,Bengali,Urdu,Cantonese,Amharic
 East End-Danforth,62,English,Cantonese,Bengali,Urdu,Tagalog
 The Beaches,63,English,French,Spanish,Russian,Mandarin
 Woodbine Corridor,64,English,Cantonese,French,Mandarin,Italian
@@ -69,7 +69,7 @@ Playter Estates-Danforth,67,English,Greek,Cantonese,French,Spanish
 North Riverdale,68,English,Cantonese,Mandarin,Greek,French
 Blake-Jones,69,English,Cantonese,Gujarati,Greek,Mandarin
 South Riverdale,70,English,Cantonese,Mandarin,Vietnamese,French
-Cabbagetown-South St. James Town,71,English,Cantonese,Tagalog,French,Mandarin
+Cabbagetown-South St. James Town,71,English,Cantonese,Tagalog,Mandarin,French
 Regent Park,72,English,Bengali,Mandarin,Tamil,Cantonese
 Moss Park,73,English,French,Mandarin,Cantonese,Spanish
 North St. James Town,74,English,Tagalog,Tamil,Nepali,Mandarin
@@ -85,7 +85,7 @@ Dufferin Grove,83,English,Portuguese,Spanish,Cantonese,Mandarin
 Little Portugal,84,English,Portuguese,Cantonese,Mandarin,Vietnamese
 South Parkdale,85,English,Tibetan,Polish,Tagalog,Vietnamese
 Roncesvalles,86,English,Polish,Hungarian,Tibetan,Portuguese
-High Park-Swansea,87,English,Polish,Serbian,French,Ukrainian
+High Park-Swansea,87,English,Polish,Serbian,Ukrainian,French
 High Park North,88,English,Russian,Polish,Spanish,Serbian
 Runnymede-Bloor West Village,89,English,Ukrainian,French,Polish,Greek
 Junction Area,90,English,Portuguese,Vietnamese,Spanish,Cantonese
@@ -99,10 +99,10 @@ Yonge-St.Clair,97,English,Spanish,French,Persian,Russian
 Rosedale-Moore Park,98,English,Mandarin,French,Spanish,Persian
 Mount Pleasant East,99,English,French,Spanish,Persian,Serbian
 Yonge-Eglinton,100,English,Spanish,Mandarin,Korean,French
-Forest Hill South,101,English,Mandarin,French,Russian,Spanish
+Forest Hill South,101,English,Mandarin,Russian,French,Spanish
 Forest Hill North,102,English,Tagalog,Russian,Spanish,Hebrew
 Lawrence Park South,103,English,Mandarin,French,Persian,Russian
-Mount Pleasant West,104,English,Persian,Spanish,Korean,Russian
+Mount Pleasant West,104,English,Persian,Spanish,Russian,Korean
 Lawrence Park North,105,English,Mandarin,Persian,French,Spanish
 Humewood-Cedarvale,106,English,Tagalog,Spanish,Portuguese,Greek
 Oakwood Village,107,English,Portuguese,Spanish,Italian,Tagalog

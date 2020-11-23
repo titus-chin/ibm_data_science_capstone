@@ -1,13 +1,13 @@
 Neighborhood,ID,1st Most Common Job,2nd Most Common Job,3rd Most Common Job,4th Most Common Job,5th Most Common Job
-West Humber-Clairville,1,Manufacturing,Retail trade,Transportation,Health care,Admin &                         support
+West Humber-Clairville,1,Manufacturing,Retail trade,Transportation,Health care,Admin/support
 Mount Olive-Silverstone-Jamestown,2,Manufacturing,Retail trade,Health care,Transportation,Accomodation
 Thistletown-Beaumond Heights,3,Manufacturing,Retail trade,Transportation,Construction,Health care
-Rexdale-Kipling,4,Retail trade,Manufacturing,Health care,Admin &                         support,Transportation
-Elms-Old Rexdale,5,Retail trade,Manufacturing,Health care,Transportation,Admin &                         support
+Rexdale-Kipling,4,Retail trade,Manufacturing,Health care,Admin/support,Transportation
+Elms-Old Rexdale,5,Retail trade,Manufacturing,Health care,Transportation,Admin/support
 Kingsview Village-The Westway,6,Retail trade,Health care,Manufacturing,Transportation,Accomodation
 Willowridge-Martingrove-Richview,7,Retail trade,Manufacturing,Professional,Health care,Education
 Humber Heights-Westmount,8,Retail trade,Education,Construction,Health care,Professional
-Edenbridge-Humber Valley,9,Professional,Health care,Retail trade,Finance,Education
+Edenbridge-Humber Valley,9,Professional,Retail trade,Health care,Finance,Education
 Princess-Rosethorn,10,Professional,Education,Finance,Health care,Retail trade
 Eringate-Centennial-West Deane,11,Retail trade,Health care,Education,Professional,Manufacturing
 Markland Wood,12,Professional,Retail trade,Education,Health care,Finance
@@ -20,15 +20,15 @@ New Toronto,18,Retail trade,Health care,Education,Professional,Accomodation
 Long Branch,19,Professional,Retail trade,Manufacturing,Health care,Education
 Alderwood,20,Retail trade,Manufacturing,Construction,Professional,Health care
 Humber Summit,21,Manufacturing,Retail trade,Transportation,Accomodation,Construction
-Humbermede,22,Manufacturing,Retail trade,Health care,Admin &                         support,Construction
+Humbermede,22,Manufacturing,Retail trade,Health care,Admin/support,Construction
 Pelmo Park-Humberlea,23,Construction,Retail trade,Manufacturing,Health care,Education
-Black Creek,24,Manufacturing,Retail trade,Construction,Admin &                         support,Health care
-Glenfield-Jane Heights,25,Manufacturing,Retail trade,Health care,Admin &                         support,Construction
-Downsview-Roding-CFB,26,Manufacturing,Construction,Retail trade,Health care,Admin &                         support
+Black Creek,24,Manufacturing,Retail trade,Construction,Admin/support,Health care
+Glenfield-Jane Heights,25,Manufacturing,Retail trade,Health care,Admin/support,Construction
+Downsview-Roding-CFB,26,Manufacturing,Construction,Retail trade,Health care,Admin/support
 York University Heights,27,Manufacturing,Retail trade,Health care,Accomodation,Construction
 Rustic,28,Retail trade,Health care,Construction,Manufacturing,Transportation
 Maple Leaf,29,Manufacturing,Retail trade,Health care,Construction,Accomodation
-Brookhaven-Amesbury,30,Manufacturing,Retail trade,Construction,Health care,Admin &                         support
+Brookhaven-Amesbury,30,Manufacturing,Retail trade,Construction,Health care,Admin/support
 Yorkdale-Glen Park,31,Retail trade,Health care,Construction,Manufacturing,Finance
 Englemount-Lawrence,32,Health care,Retail trade,Education,Professional,Other services
 Clanton Park,33,Health care,Professional,Retail trade,Other services,Education
@@ -42,7 +42,7 @@ St.Andrew-Windfields,40,Health care,Professional,Finance,Retail trade,Education
 Bridle Path-Sunnybrook-York Mills,41,Professional,Finance,Health care,Education,Real estate
 Banbury-Don Mills,42,Professional,Health care,Finance,Retail trade,Education
 Victoria Village,43,Retail trade,Health care,Finance,Professional,Manufacturing
-Flemingdon Park,44,Retail trade,Health care,Accomodation,Admin &                         support,Professional
+Flemingdon Park,44,Retail trade,Health care,Accomodation,Admin/support,Professional
 Parkwoods-Donalda,45,Health care,Professional,Retail trade,Finance,Education
 Pleasant View,46,Professional,Retail trade,Health care,Manufacturing,Education
 Don Valley Village,47,Professional,Health care,Retail trade,Finance,Manufacturing
@@ -53,13 +53,13 @@ Willowdale East,51,Professional,Finance,Health care,Retail trade,Education
 Bayview Village,52,Professional,Finance,Health care,Retail trade,Education
 Henry Farm,53,Professional,Retail trade,Finance,Health care,Accomodation
 O'Connor-Parkview,54,Retail trade,Health care,Professional,Accomodation,Finance
-Thorncliffe Park,55,Retail trade,Professional,Transportation,Health care,Admin &                         support
+Thorncliffe Park,55,Retail trade,Professional,Transportation,Health care,Admin/support
 Leaside-Bennington,56,Professional,Finance,Health care,Education,Retail trade
 Broadview North,57,Accomodation,Professional,Health care,Retail trade,Education
 Old East York,58,Professional,Health care,Retail trade,Education,Finance
 Danforth East York,59,Health care,Professional,Education,Retail trade,Finance
 Woodbine-Lumsden,60,Professional,Retail trade,Health care,Education,Finance
-Taylor-Massey,61,Retail trade,Accomodation,Admin &                         support,Professional,Health care
+Taylor-Massey,61,Retail trade,Accomodation,Professional,Admin/support,Health care
 East End-Danforth,62,Professional,Health care,Education,Retail trade,Finance
 The Beaches,63,Professional,Education,Finance,Health care,Cultural industry
 Woodbine Corridor,64,Professional,Education,Health care,Retail trade,Finance
@@ -89,7 +89,7 @@ High Park-Swansea,87,Professional,Education,Health care,Finance,Retail trade
 High Park North,88,Professional,Education,Health care,Finance,Accomodation
 Runnymede-Bloor West Village,89,Professional,Education,Health care,Finance,Cultural industry
 Junction Area,90,Professional,Education,Retail trade,Health care,Construction
-Weston-Pelham Park,91,Construction,Retail trade,Health care,Accomodation,Admin &                         support
+Weston-Pelham Park,91,Construction,Retail trade,Health care,Accomodation,Admin/support
 Corso Italia-Davenport,92,Construction,Retail trade,Education,Professional,Health care
 Dovercourt-Wallace Emerson-Junction,93,Retail trade,Professional,Accomodation,Education,Construction
 Wychwood,94,Professional,Education,Health care,Accomodation,Retail trade
@@ -106,36 +106,36 @@ Mount Pleasant West,104,Professional,Finance,Health care,Education,Retail trade
 Lawrence Park North,105,Professional,Finance,Education,Health care,Retail trade
 Humewood-Cedarvale,106,Professional,Health care,Education,Retail trade,Other services
 Oakwood Village,107,Retail trade,Health care,Education,Professional,Construction
-Briar Hill-Belgravia,108,Health care,Retail trade,Construction,Manufacturing,Admin &                         support
-Caledonia-Fairbank,109,Construction,Retail trade,Health care,Admin &                         support,Manufacturing
-Keelesdale-Eglinton West,110,Construction,Retail trade,Manufacturing,Admin &                         support,Health care
-Rockcliffe-Smythe,111,Construction,Retail trade,Manufacturing,Health care,Admin &                         support
-Beechborough-Greenbrook,112,Retail trade,Construction,Health care,Manufacturing,Admin &                         support
-Weston,113,Retail trade,Health care,Manufacturing,Construction,Admin &                         support
+Briar Hill-Belgravia,108,Health care,Retail trade,Construction,Manufacturing,Admin/support
+Caledonia-Fairbank,109,Construction,Retail trade,Health care,Admin/support,Manufacturing
+Keelesdale-Eglinton West,110,Construction,Retail trade,Manufacturing,Admin/support,Health care
+Rockcliffe-Smythe,111,Construction,Retail trade,Manufacturing,Health care,Admin/support
+Beechborough-Greenbrook,112,Retail trade,Construction,Health care,Manufacturing,Admin/support
+Weston,113,Retail trade,Health care,Manufacturing,Construction,Admin/support
 Lambton Baby Point,114,Professional,Education,Retail trade,Finance,Health care
-Mount Dennis,115,Construction,Health care,Admin &                         support,Manufacturing,Retail trade
+Mount Dennis,115,Construction,Health care,Admin/support,Manufacturing,Retail trade
 Steeles,116,Accomodation,Retail trade,Manufacturing,Professional,Finance
 L'Amoreaux,117,Retail trade,Manufacturing,Health care,Accomodation,Professional
 Tam O'Shanter-Sullivan,118,Retail trade,Health care,Manufacturing,Professional,Finance
 Wexford/Maryvale,119,Retail trade,Health care,Manufacturing,Accomodation,Finance
 Clairlea-Birchmount,120,Health care,Retail trade,Accomodation,Finance,Manufacturing
-Oakridge,121,Accomodation,Retail trade,Health care,Admin &                         support,Transportation
+Oakridge,121,Accomodation,Retail trade,Health care,Admin/support,Transportation
 Birchcliffe-Cliffside,122,Health care,Professional,Retail trade,Education,Finance
 Cliffcrest,123,Professional,Retail trade,Finance,Health care,Education
-Kennedy Park,124,Health care,Retail trade,Accomodation,Manufacturing,Admin &                         support
+Kennedy Park,124,Health care,Retail trade,Accomodation,Manufacturing,Admin/support
 Ionview,125,Health care,Retail trade,Accomodation,Manufacturing,Finance
-Dorset Park,126,Retail trade,Manufacturing,Health care,Accomodation,Admin &                         support
+Dorset Park,126,Retail trade,Manufacturing,Health care,Accomodation,Admin/support
 Bendale,127,Health care,Retail trade,Manufacturing,Finance,Professional
 Agincourt South-Malvern West,128,Manufacturing,Retail trade,Health care,Accomodation,Professional
-Agincourt North,129,Manufacturing,Accomodation,Retail trade,Health care,Finance
+Agincourt North,129,Manufacturing,Accomodation,Retail trade,Health care,Professional
 Milliken,130,Accomodation,Manufacturing,Retail trade,Health care,Professional
 Rouge,131,Manufacturing,Health care,Retail trade,Finance,Professional
-Malvern,132,Manufacturing,Retail trade,Health care,Accomodation,Admin &                         support
+Malvern,132,Manufacturing,Retail trade,Health care,Accomodation,Admin/support
 Centennial Scarborough,133,Finance,Health care,Education,Professional,Retail trade
 Highland Creek,134,Health care,Retail trade,Finance,Manufacturing,Education
-Morningside,135,Health care,Retail trade,Manufacturing,Admin &                         support,Accomodation
-West Hill,136,Retail trade,Health care,Admin &                         support,Manufacturing,Accomodation
-Woburn,137,Retail trade,Manufacturing,Health care,Admin &                         support,Accomodation
-Eglinton East,138,Health care,Retail trade,Accomodation,Manufacturing,Admin &                         support
-Scarborough Village,139,Health care,Retail trade,Admin &                         support,Manufacturing,Accomodation
+Morningside,135,Health care,Retail trade,Manufacturing,Admin/support,Accomodation
+West Hill,136,Retail trade,Health care,Admin/support,Manufacturing,Accomodation
+Woburn,137,Retail trade,Manufacturing,Health care,Admin/support,Accomodation
+Eglinton East,138,Health care,Retail trade,Accomodation,Manufacturing,Admin/support
+Scarborough Village,139,Health care,Retail trade,Admin/support,Manufacturing,Accomodation
 Guildwood,140,Education,Professional,Health care,Retail trade,Finance
