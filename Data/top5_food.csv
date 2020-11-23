@@ -1,0 +1,141 @@
+Neighborhood,ID,1st Most Common Food,2nd Most Common Food,3rd Most Common Food,4th Most Common Food,5th Most Common Food
+West Humber-Clairville,1,Indian Restaurant,Sandwich Place,Restaurant,Chinese Restaurant,Caribbean Restaurant
+Mount Olive-Silverstone-Jamestown,2,Sandwich Place,Indian Restaurant,Pizza Place,Italian Restaurant,Chinese Restaurant
+Thistletown-Beaumond Heights,3,Sandwich Place,Indian Restaurant,Pizza Place,Vietnamese Restaurant,Fried Chicken Joint
+Rexdale-Kipling,4,Indian Restaurant,Chinese Restaurant,Restaurant,Sandwich Place,Vietnamese Restaurant
+Elms-Old Rexdale,5,Sandwich Place,Chinese Restaurant,Indian Restaurant,Vietnamese Restaurant,Pizza Place
+Kingsview Village-The Westway,6,Restaurant,Sandwich Place,Pizza Place,Bakery,Chinese Restaurant
+Willowridge-Martingrove-Richview,7,Restaurant,Bakery,Sandwich Place,Pizza Place,Italian Restaurant
+Humber Heights-Westmount,8,Bakery,Pizza Place,Italian Restaurant,Diner,Burger Joint
+Edenbridge-Humber Valley,9,Bakery,Café,Italian Restaurant,Burger Joint,Pizza Place
+Princess-Rosethorn,10,Pizza Place,Restaurant,Sandwich Place,Burger Joint,Bakery
+Eringate-Centennial-West Deane,11,Japanese Restaurant,Restaurant,Burrito Place,Middle Eastern Restaurant,Steakhouse
+Markland Wood,12,Bakery,Burrito Place,Burger Joint,Sandwich Place,Vietnamese Restaurant
+Etobicoke West Mall,13,Bakery,Burger Joint,Sandwich Place,Seafood Restaurant,Burrito Place
+Islington-City Centre West,14,Pizza Place,Bakery,Seafood Restaurant,Burger Joint,Breakfast Spot
+Kingsway South,15,Café,Italian Restaurant,Pizza Place,Bakery,Sushi Restaurant
+Stonegate-Queensway,16,Italian Restaurant,Sushi Restaurant,Café,Pizza Place,Thai Restaurant
+Mimico,17,Italian Restaurant,Sushi Restaurant,Breakfast Spot,Pizza Place,Café
+New Toronto,18,Sushi Restaurant,Italian Restaurant,Bakery,Café,Pizza Place
+Long Branch,19,Italian Restaurant,Bakery,Pizza Place,Seafood Restaurant,Café
+Alderwood,20,Bakery,Café,Pizza Place,Seafood Restaurant,Burrito Place
+Humber Summit,21,Sandwich Place,Steakhouse,Italian Restaurant,Bakery,Chinese Restaurant
+Humbermede,22,Pizza Place,Vietnamese Restaurant,Steakhouse,Restaurant,Chinese Restaurant
+Pelmo Park-Humberlea,23,Sandwich Place,Vietnamese Restaurant,Pizza Place,Restaurant,Asian Restaurant
+Black Creek,24,Italian Restaurant,Restaurant,Sandwich Place,Steakhouse,Middle Eastern Restaurant
+Glenfield-Jane Heights,25,Vietnamese Restaurant,Pizza Place,Sandwich Place,Middle Eastern Restaurant,Café
+Downsview-Roding-CFB,26,Restaurant,Vietnamese Restaurant,Café,Bakery,Food Court
+York University Heights,27,Restaurant,Middle Eastern Restaurant,Vietnamese Restaurant,Pizza Place,Sandwich Place
+Rustic,28,Vietnamese Restaurant,Restaurant,Bakery,Café,Japanese Restaurant
+Maple Leaf,29,Restaurant,Vietnamese Restaurant,Bakery,Fried Chicken Joint,Falafel Restaurant
+Brookhaven-Amesbury,30,Italian Restaurant,Bakery,Café,Vietnamese Restaurant,Restaurant
+Yorkdale-Glen Park,31,Italian Restaurant,Bakery,Café,American Restaurant,Falafel Restaurant
+Englemount-Lawrence,32,Italian Restaurant,Café,Bakery,Deli / Bodega,Japanese Restaurant
+Clanton Park,33,Bakery,Pizza Place,Japanese Restaurant,Restaurant,Sushi Restaurant
+Bathurst Manor,34,Middle Eastern Restaurant,Restaurant,Sushi Restaurant,Deli / Bodega,Korean Restaurant
+Westminster-Branson,35,Middle Eastern Restaurant,Korean Restaurant,Restaurant,Pizza Place,Deli / Bodega
+Newtonbrook West,36,Korean Restaurant,Middle Eastern Restaurant,Café,Sushi Restaurant,Bagel Shop
+Willowdale West,37,Korean Restaurant,Middle Eastern Restaurant,Bakery,Café,Japanese Restaurant
+Lansing-Westgate,38,Korean Restaurant,Café,Middle Eastern Restaurant,Japanese Restaurant,Pizza Place
+Bedford Park-Nortown,39,Italian Restaurant,Bakery,Café,Deli / Bodega,Sushi Restaurant
+St.Andrew-Windfields,40,Bakery,Caribbean Restaurant,Japanese Restaurant,Café,Seafood Restaurant
+Bridle Path-Sunnybrook-York Mills,41,Italian Restaurant,Café,Bakery,Sushi Restaurant,Japanese Restaurant
+Banbury-Don Mills,42,Middle Eastern Restaurant,Bakery,Café,Restaurant,Japanese Restaurant
+Victoria Village,43,Middle Eastern Restaurant,Restaurant,Bakery,Seafood Restaurant,Japanese Restaurant
+Flemingdon Park,44,Café,Bakery,Middle Eastern Restaurant,Indian Restaurant,Greek Restaurant
+Parkwoods-Donalda,45,Middle Eastern Restaurant,Bakery,Burger Joint,Japanese Restaurant,Italian Restaurant
+Pleasant View,46,Chinese Restaurant,Bakery,Caribbean Restaurant,Italian Restaurant,Noodle House
+Don Valley Village,47,Chinese Restaurant,Bakery,Caribbean Restaurant,Breakfast Spot,Falafel Restaurant
+Hillcrest Village,48,Chinese Restaurant,Bakery,Caribbean Restaurant,Japanese Restaurant,Breakfast Spot
+Bayview Woods-Steeles,49,Korean Restaurant,Bakery,Chinese Restaurant,Middle Eastern Restaurant,Japanese Restaurant
+Newtonbrook East,50,Korean Restaurant,Middle Eastern Restaurant,Bagel Shop,Sushi Restaurant,Bakery
+Willowdale East,51,Korean Restaurant,Middle Eastern Restaurant,Pizza Place,Café,Japanese Restaurant
+Bayview Village,52,Korean Restaurant,Bakery,Middle Eastern Restaurant,Caribbean Restaurant,Japanese Restaurant
+Henry Farm,53,Middle Eastern Restaurant,Caribbean Restaurant,Bakery,Mediterranean Restaurant,Italian Restaurant
+O'Connor-Parkview,54,Café,Bakery,Middle Eastern Restaurant,Greek Restaurant,Gastropub
+Thorncliffe Park,55,Café,Italian Restaurant,Greek Restaurant,Bakery,BBQ Joint
+Leaside-Bennington,56,Italian Restaurant,Café,Bakery,Indian Restaurant,Pizza Place
+Broadview North,57,Café,Greek Restaurant,Bakery,BBQ Joint,Diner
+Old East York,58,Café,Pizza Place,Greek Restaurant,Indian Restaurant,Gastropub
+Danforth East York,59,Café,Pizza Place,Greek Restaurant,Gastropub,Asian Restaurant
+Woodbine-Lumsden,60,Gastropub,Café,Pizza Place,Bakery,Indian Restaurant
+Taylor-Massey,61,Gastropub,Bakery,Indian Restaurant,Café,Pizza Place
+East End-Danforth,62,Pizza Place,Gastropub,Breakfast Spot,Café,BBQ Joint
+The Beaches,63,Café,Bakery,Breakfast Spot,Gastropub,Pizza Place
+Woodbine Corridor,64,Café,Pizza Place,Gastropub,BBQ Joint,Middle Eastern Restaurant
+Greenwood-Coxwell,65,Café,Pizza Place,Gastropub,Indian Restaurant,Greek Restaurant
+Danforth,66,Café,Greek Restaurant,Pizza Place,Asian Restaurant,Gastropub
+Playter Estates-Danforth,67,Café,Greek Restaurant,Diner,Gastropub,Pizza Place
+North Riverdale,68,Café,Greek Restaurant,Pizza Place,Gastropub,Bakery
+Blake-Jones,69,Café,Pizza Place,Greek Restaurant,Gastropub,Vietnamese Restaurant
+South Riverdale,70,Café,Italian Restaurant,Japanese Restaurant,Pizza Place,Restaurant
+Cabbagetown-South St.James Town,71,Café,Italian Restaurant,Gastropub,Japanese Restaurant,Diner
+Regent Park,72,Café,Gastropub,Japanese Restaurant,Diner,Italian Restaurant
+Moss Park,73,Café,Restaurant,Japanese Restaurant,Gastropub,Thai Restaurant
+North St.James Town,74,Italian Restaurant,Café,Japanese Restaurant,Gastropub,Restaurant
+Church-Yonge Corridor,75,Café,Thai Restaurant,Gastropub,Restaurant,Japanese Restaurant
+Bay Street Corridor,76,Café,Restaurant,Japanese Restaurant,Gastropub,Thai Restaurant
+Waterfront Communities-The Island,77,Café,Restaurant,Italian Restaurant,Pizza Place,Japanese Restaurant
+Kensington-Chinatown,78,Café,Sandwich Place,Restaurant,Pizza Place,Mexican Restaurant
+University,79,Café,Restaurant,Sandwich Place,Mexican Restaurant,Bakery
+Palmerston-Little Italy,80,Café,Bakery,Burger Joint,Pizza Place,Restaurant
+Trinity-Bellwoods,81,Café,Pizza Place,Bakery,Italian Restaurant,Caribbean Restaurant
+Niagara,82,Café,Italian Restaurant,Restaurant,Bakery,Sandwich Place
+Dufferin Grove,83,Café,Restaurant,Italian Restaurant,Asian Restaurant,Pizza Place
+Little Portugal,84,Café,Italian Restaurant,Bakery,Vietnamese Restaurant,Pizza Place
+South Parkdale,85,Italian Restaurant,Café,Bakery,Restaurant,Sandwich Place
+Roncesvalles,86,Café,Italian Restaurant,Vietnamese Restaurant,Restaurant,Pizza Place
+High Park-Swansea,87,Café,Italian Restaurant,Pizza Place,Bakery,Gastropub
+High Park North,88,Café,Italian Restaurant,Bakery,Gastropub,Pizza Place
+Runnymede-Bloor West Village,89,Café,Italian Restaurant,Bakery,Gastropub,Pizza Place
+Junction Area,90,Café,Italian Restaurant,Bakery,Pizza Place,Gastropub
+Weston-Pellam Park,91,Café,Italian Restaurant,Bakery,BBQ Joint,Brazilian Restaurant
+Corso Italia-Davenport,92,Café,Italian Restaurant,Bakery,Brazilian Restaurant,Middle Eastern Restaurant
+Dovercourt-Wallace Emerson-Junction,93,Café,Italian Restaurant,Restaurant,Asian Restaurant,Bakery
+Wychwood,94,Café,Italian Restaurant,Gastropub,Restaurant,Bakery
+Annex,95,Café,Gastropub,Sandwich Place,Tapas Restaurant,Restaurant
+Casa Loma,96,Café,Italian Restaurant,South American Restaurant,Tapas Restaurant,Restaurant
+Yonge-St.Clair,97,Café,Italian Restaurant,Gastropub,Middle Eastern Restaurant,BBQ Joint
+Rosedale-Moore Park,98,Café,Italian Restaurant,Gastropub,Japanese Restaurant,French Restaurant
+Mount Pleasant East,99,Italian Restaurant,Café,Bakery,Deli / Bodega,Restaurant
+Yonge-Eglinton,100,Italian Restaurant,Café,Indian Restaurant,Sushi Restaurant,Bagel Shop
+Forest Hill South,101,Italian Restaurant,Café,Middle Eastern Restaurant,South American Restaurant,Deli / Bodega
+Forest Hill North,102,Italian Restaurant,Café,Middle Eastern Restaurant,Bakery,Deli / Bodega
+Lawrence Park South,103,Café,Italian Restaurant,Bakery,BBQ Joint,Indian Restaurant
+Mount Pleasant West,104,Italian Restaurant,Café,Bakery,BBQ Joint,Indian Restaurant
+Lawrence Park North,105,Café,Italian Restaurant,Bakery,Deli / Bodega,Japanese Restaurant
+Humewood-Cedarvale,106,Café,Italian Restaurant,BBQ Joint,Bagel Shop,Bakery
+Oakwood Village,107,Café,Italian Restaurant,Middle Eastern Restaurant,Bakery,Gastropub
+Briar Hill-Belgravia,108,Café,Italian Restaurant,Gastropub,BBQ Joint,Bakery
+Caledonia-Fairbank,109,Café,Italian Restaurant,Bakery,Gastropub,BBQ Joint
+Keelesdale-Eglinton West,110,Café,Italian Restaurant,Bakery,Gastropub,Indian Restaurant
+Rockcliffe-Smythe,111,Café,Italian Restaurant,Bakery,Pizza Place,Gastropub
+Beechborough-Greenbrook,112,Italian Restaurant,Café,Bakery,Restaurant,Brazilian Restaurant
+Weston,113,Bakery,Vietnamese Restaurant,Café,Burger Joint,Chinese Restaurant
+Lambton Baby Point,114,Café,Italian Restaurant,Bakery,Pizza Place,Gastropub
+Mount Dennis,115,Café,Italian Restaurant,Bakery,Gastropub,Vietnamese Restaurant
+Steeles,116,Chinese Restaurant,Bakery,Caribbean Restaurant,Japanese Restaurant,Falafel Restaurant
+L'Amoreaux,117,Chinese Restaurant,Bakery,Caribbean Restaurant,Noodle House,Vietnamese Restaurant
+Tam O'Shanter-Sullivan,118,Caribbean Restaurant,Middle Eastern Restaurant,Bakery,Chinese Restaurant,Falafel Restaurant
+Wexford/Maryvale,119,Middle Eastern Restaurant,Burger Joint,Caribbean Restaurant,Italian Restaurant,Burrito Place
+Clairlea-Birchmount,120,Middle Eastern Restaurant,Gastropub,Burger Joint,Bakery,Indian Restaurant
+Oakridge,121,Gastropub,Indian Restaurant,Middle Eastern Restaurant,Café,Breakfast Spot
+Birchcliffe-Cliffside,122,Breakfast Spot,Gastropub,Bakery,Café,Burrito Place
+Cliffcrest,123,Sandwich Place,Burger Joint,Chinese Restaurant,Pizza Place,Asian Restaurant
+Kennedy Park,124,Middle Eastern Restaurant,Burger Joint,Bakery,Indian Restaurant,Pizza Place
+Ionview,125,Middle Eastern Restaurant,Burger Joint,Indian Restaurant,Bakery,Burrito Place
+Dorset Park,126,Middle Eastern Restaurant,Caribbean Restaurant,Burger Joint,Indian Restaurant,Sandwich Place
+Bendale,127,Middle Eastern Restaurant,Bakery,Caribbean Restaurant,Burger Joint,Indian Restaurant
+Agincourt South-Malvern West,128,Chinese Restaurant,Caribbean Restaurant,Burger Joint,Indian Restaurant,Bakery
+Agincourt North,129,Chinese Restaurant,Indian Restaurant,Caribbean Restaurant,Bakery,Noodle House
+Milliken,130,Chinese Restaurant,Caribbean Restaurant,Bakery,Indian Restaurant,Noodle House
+Rouge,131,Pizza Place,Sandwich Place,Fast Food Restaurant,Restaurant,Burger Joint
+Malvern,132,Indian Restaurant,Chinese Restaurant,Breakfast Spot,Caribbean Restaurant,Restaurant
+Centennial Scarborough,133,Pizza Place,Fast Food Restaurant,Breakfast Spot,Sandwich Place,Chinese Restaurant
+Highland Creek,134,Pizza Place,Sandwich Place,Fast Food Restaurant,Breakfast Spot,Chinese Restaurant
+Morningside,135,Breakfast Spot,Caribbean Restaurant,Pizza Place,Burger Joint,Restaurant
+West Hill,136,Fast Food Restaurant,Sandwich Place,Pizza Place,Fried Chicken Joint,Indian Restaurant
+Woburn,137,Chinese Restaurant,Indian Restaurant,Restaurant,Caribbean Restaurant,Breakfast Spot
+Eglinton East,138,Middle Eastern Restaurant,Burger Joint,Indian Restaurant,Burrito Place,Chinese Restaurant
+Scarborough Village,139,Sandwich Place,Pizza Place,Fast Food Restaurant,Indian Restaurant,Chinese Restaurant
+Guildwood,140,Sandwich Place,Fast Food Restaurant,Pizza Place,Indian Restaurant,Fried Chicken Joint

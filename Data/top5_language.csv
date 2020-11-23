@@ -1,0 +1,141 @@
+Neighborhood,ID,1st Most Common Language,2nd Most Common Language,3rd Most Common Language,4th Most Common Language,5th Most Common Language
+West Humber-Clairville,1,English,Punjabi,Gujarati,Spanish,Hindi
+Mount Olive-Silverstone-Jamestown,2,English,Punjabi,Gujarati,Assyrian,Arabic
+Thistletown-Beaumond Heights,3,English,Punjabi,Spanish,Gujarati,Italian
+Rexdale-Kipling,4,English,Spanish,Italian,Urdu,Croatian
+Elms-Old Rexdale,5,English,Spanish,Somali,Italian,Vietnamese
+Kingsview Village-The Westway,6,English,Somali,Urdu,Spanish,Italian
+Willowridge-Martingrove-Richview,7,English,Italian,Spanish,Urdu,Ukrainian
+Humber Heights-Westmount,8,English,Ukrainian,Italian,Spanish,Portuguese
+Edenbridge-Humber Valley,9,English,Spanish,Ukrainian,Polish,Russian
+Princess-Rosethorn,10,English,Korean,Serbian,Mandarin,Ukrainian
+Eringate-Centennial-West Deane,11,English,Ukrainian,Serbian,Polish,Korean
+Markland Wood,12,English,Serbian,Ukrainian,Polish,Korean
+Etobicoke West Mall,13,English,Serbian,Ukrainian,Spanish,Polish
+Islington-City Centre West,14,English,Korean,Ukrainian,Spanish,Serbian
+Kingsway South,15,English,Ukrainian,French,Polish,Cantonese
+Stonegate-Queensway,16,English,Ukrainian,Polish,Russian,Serbian
+Mimico (includes Humber Bay Shores),17,English,Polish,Spanish,Russian,Tibetan
+New Toronto,18,English,Polish,Spanish,Tagalog,Ukrainian
+Long Branch,19,English,Polish,Tagalog,Spanish,Ukrainian
+Alderwood,20,English,Polish,Italian,Portuguese,Ukrainian
+Humber Summit,21,English,Italian,Urdu,Punjabi,Spanish
+Humbermede,22,English,Spanish,Urdu,Italian,Vietnamese
+Pelmo Park-Humberlea,23,English,Italian,Spanish,Vietnamese,Portuguese
+Black Creek,24,English,Vietnamese,Spanish,Assyrian,Italian
+Glenfield-Jane Heights,25,English,Vietnamese,Spanish,Italian,Cantonese
+Downsview-Roding-CFB,26,English,Italian,Spanish,Tagalog,Vietnamese
+York University Heights,27,English,Italian,Spanish,Tagalog,Tamil
+Rustic,28,English,Italian,Spanish,Somali,Portuguese
+Maple Leaf,29,English,Italian,Tagalog,Spanish,Portuguese
+Brookhaven-Amesbury,30,English,Spanish,Portuguese,Vietnamese,Italian
+Yorkdale-Glen Park,31,English,Italian,Portuguese,Spanish,Tagalog
+Englemount-Lawrence,32,English,Tagalog,Russian,Spanish,Italian
+Clanton Park,33,English,Tagalog,Russian,Italian,Spanish
+Bathurst Manor,34,English,Russian,Tagalog,Spanish,Italian
+Westminster-Branson,35,English,Russian,Tagalog,Korean,Persian
+Newtonbrook West,36,English,Russian,Tagalog,Korean,Persian
+Willowdale West,37,English,Mandarin,Persian,Korean,Russian
+Lansing-Westgate,38,English,Persian,Korean,Mandarin,Russian
+Bedford Park-Nortown,39,English,Tagalog,Persian,Mandarin,Spanish
+St.Andrew-Windfields,40,English,Mandarin,Persian,Cantonese,Korean
+Bridle Path-Sunnybrook-York Mills,41,English,Mandarin,Persian,Cantonese,French
+Banbury-Don Mills,42,English,Mandarin,Cantonese,Persian,Tagalog
+Victoria Village,43,English,Arabic,Tagalog,Greek,Persian
+Flemingdon Park,44,English,Urdu,Persian,Gujarati,Tagalog
+Parkwoods-Donalda,45,English,Mandarin,Persian,Arabic,Spanish
+Pleasant View,46,English,Mandarin,Cantonese,Greek,Italian
+Don Valley Village,47,English,Mandarin,Persian,Cantonese,Tagalog
+Hillcrest Village,48,English,Mandarin,Cantonese,Persian,Korean
+Bayview Woods-Steeles,49,English,Mandarin,Cantonese,Persian,Korean
+Newtonbrook East,50,English,Persian,Mandarin,Korean,Cantonese
+Willowdale East,51,English,Mandarin,Persian,Korean,Cantonese
+Bayview Village,52,English,Mandarin,Persian,Cantonese,Korean
+Henry Farm,53,English,Mandarin,Persian,Arabic,Cantonese
+O'Connor-Parkview,54,English,Greek,Tagalog,Bengali,Persian
+Thorncliffe Park,55,English,Urdu,Pashto,Persian,Arabic
+Leaside-Bennington,56,English,French,Spanish,Persian,Cantonese
+Broadview North,57,English,Greek,Serbian,Albanian,Tagalog
+Old East York,58,English,Greek,Cantonese,Tagalog,Urdu
+Danforth East York,59,English,Greek,Cantonese,French,Italian
+Woodbine-Lumsden,60,English,Cantonese,Mandarin,Greek,Spanish
+Taylor-Massey,61,English,Bengali,Urdu,Cantonese,Tagalog
+East End-Danforth,62,English,Cantonese,Bengali,Urdu,Tagalog
+The Beaches,63,English,French,Spanish,Russian,Mandarin
+Woodbine Corridor,64,English,Cantonese,French,Mandarin,Italian
+Greenwood-Coxwell,65,English,Cantonese,Urdu,Mandarin,French
+Danforth,66,English,Greek,Cantonese,Italian,Gujarati
+Playter Estates-Danforth,67,English,Greek,Cantonese,French,Spanish
+North Riverdale,68,English,Cantonese,Mandarin,Greek,French
+Blake-Jones,69,English,Cantonese,Gujarati,Greek,Mandarin
+South Riverdale,70,English,Cantonese,Mandarin,Vietnamese,French
+Cabbagetown-South St. James Town,71,English,Cantonese,Tagalog,French,Mandarin
+Regent Park,72,English,Bengali,Mandarin,Tamil,Cantonese
+Moss Park,73,English,French,Mandarin,Cantonese,Spanish
+North St. James Town,74,English,Tagalog,Tamil,Nepali,Mandarin
+Church-Yonge Corridor,75,English,Mandarin,French,Cantonese,Spanish
+Bay Street Corridor,76,English,Mandarin,Korean,Arabic,Cantonese
+Waterfront Communities-The Island,77,English,Mandarin,Cantonese,French,Spanish
+Kensington-Chinatown,78,English,Mandarin,Cantonese,Vietnamese,Portuguese
+University,79,English,Mandarin,Portuguese,Cantonese,French
+Palmerston-Little Italy,80,English,Portuguese,Italian,Cantonese,Mandarin
+Trinity-Bellwoods,81,English,Portuguese,Mandarin,Cantonese,Italian
+Niagara,82,English,Spanish,Mandarin,Portuguese,French
+Dufferin Grove,83,English,Portuguese,Spanish,Cantonese,Mandarin
+Little Portugal,84,English,Portuguese,Cantonese,Mandarin,Vietnamese
+South Parkdale,85,English,Tibetan,Polish,Tagalog,Vietnamese
+Roncesvalles,86,English,Polish,Hungarian,Tibetan,Portuguese
+High Park-Swansea,87,English,Polish,Serbian,French,Ukrainian
+High Park North,88,English,Russian,Polish,Spanish,Serbian
+Runnymede-Bloor West Village,89,English,Ukrainian,French,Polish,Greek
+Junction Area,90,English,Portuguese,Vietnamese,Spanish,Cantonese
+Weston-Pelham Park,91,English,Portuguese,Spanish,Italian,Vietnamese
+Corso Italia-Davenport,92,English,Portuguese,Italian,Spanish,Mandarin
+Dovercourt-Wallace Emerson-Junction,93,English,Portuguese,Cantonese,Spanish,Italian
+Wychwood,94,English,Portuguese,Cantonese,Greek,Italian
+Annex,95,English,Mandarin,French,Cantonese,Spanish
+Casa Loma,96,English,Spanish,Mandarin,Russian,French
+Yonge-St.Clair,97,English,Spanish,French,Persian,Russian
+Rosedale-Moore Park,98,English,Mandarin,French,Spanish,Persian
+Mount Pleasant East,99,English,French,Spanish,Persian,Serbian
+Yonge-Eglinton,100,English,Spanish,Mandarin,Korean,French
+Forest Hill South,101,English,Mandarin,French,Russian,Spanish
+Forest Hill North,102,English,Tagalog,Russian,Spanish,Hebrew
+Lawrence Park South,103,English,Mandarin,French,Persian,Russian
+Mount Pleasant West,104,English,Persian,Spanish,Korean,Russian
+Lawrence Park North,105,English,Mandarin,Persian,French,Spanish
+Humewood-Cedarvale,106,English,Tagalog,Spanish,Portuguese,Greek
+Oakwood Village,107,English,Portuguese,Spanish,Italian,Tagalog
+Briar Hill-Belgravia,108,English,Tagalog,Portuguese,Spanish,Italian
+Caledonia-Fairbank,109,English,Portuguese,Spanish,Italian,Tagalog
+Keelesdale-Eglinton West,110,English,Portuguese,Spanish,Italian,Tagalog
+Rockcliffe-Smythe,111,English,Portuguese,Spanish,Vietnamese,Italian
+Beechborough-Greenbrook,112,English,Portuguese,Spanish,Italian,Tagalog
+Weston,113,English,Spanish,Somali,Portuguese,Vietnamese
+Lambton Baby Point,114,English,Ukrainian,Spanish,Polish,French
+Mount Dennis,115,English,Spanish,Portuguese,Vietnamese,Tagalog
+Steeles,116,English,Cantonese,Mandarin,Arabic,Min Nan
+L'Amoreaux,117,English,Mandarin,Cantonese,Tamil,Armenian
+Tam O'Shanter-Sullivan,118,English,Mandarin,Cantonese,Tamil,Tagalog
+Wexford/Maryvale,119,English,Tagalog,Tamil,Mandarin,Arabic
+Clairlea-Birchmount,120,English,Bengali,Tagalog,Mandarin,Cantonese
+Oakridge,121,English,Bengali,Cantonese,Urdu,Persian
+Birchcliffe-Cliffside,122,English,Bengali,Cantonese,French,Tagalog
+Cliffcrest,123,English,Bengali,Tamil,Mandarin,Cantonese
+Kennedy Park,124,English,Bengali,Tamil,Tagalog,Cantonese
+Ionview,125,English,Tamil,Tagalog,Bengali,Cantonese
+Dorset Park,126,English,Tamil,Tagalog,Cantonese,Mandarin
+Bendale,127,English,Mandarin,Tamil,Cantonese,Tagalog
+Agincourt South-Malvern West,128,English,Cantonese,Mandarin,Tamil,Gujarati
+Agincourt North,129,English,Cantonese,Mandarin,Tamil,Tagalog
+Milliken,130,Cantonese,English,Mandarin,Tamil,Tagalog
+Rouge,131,English,Tamil,Tagalog,Urdu,Cantonese
+Malvern,132,English,Tamil,Cantonese,Tagalog,Urdu
+Centennial Scarborough,133,English,Tamil,Tagalog,Mandarin,Bengali
+Highland Creek,134,English,Tamil,Cantonese,Mandarin,Tagalog
+Morningside,135,English,Tamil,Tagalog,Urdu,Mandarin
+West Hill,136,English,Tamil,Tagalog,Bengali,Urdu
+Woburn,137,English,Gujarati,Tamil,Urdu,Mandarin
+Eglinton East,138,English,Tamil,Tagalog,Bengali,Cantonese
+Scarborough Village,139,English,Tamil,Urdu,Bengali,Persian
+Guildwood,140,English,Bengali,Tagalog,Tamil,Mandarin
