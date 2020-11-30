@@ -59,14 +59,14 @@ def create_map(result_df,ID=0,zoom=10,center={'lat':43.7047983,'lon':-79.3680904
     toronto_map=px.choropleth_mapbox(result_df,
                                      geojson=toronto_geojson,
                                      color='Score',
-                                     color_continuous_scale='teal',
                                      locations='ID',
+                                     color_continuous_scale='hot',
                                      featureidkey='properties.AREA_SHORT_CODE',
                                      mapbox_style='carto-positron',
                                      hover_data=['Rank','Neighborhood','Score'],
                                      zoom=zoom,
                                      center=center,
-                                     opacity=0.5)
+                                     opacity=0.7)
     hovertemplate='<br>Rank: %{customdata[0]}'\
                   '<br>%{customdata[1]}'\
                   '<br>Score: %{customdata[2]:.3s}%'
@@ -102,7 +102,7 @@ def create_map(result_df,ID=0,zoom=10,center={'lat':43.7047983,'lon':-79.3680904
                   '<br>Score: %{customdata[2]:.3s}%'\
                   '<extra></extra>'
     toronto_map.data[1]['hovertemplate']=hovertemplate  
-    toronto_map.update_layout(margin={'r':0,'t':0,'l':0,'b':0},coloraxis_showscale=False,showlegend=False)
+    toronto_map.update_layout(margin={'r':0,'t':0,'l':0,'b':0},showlegend=False)
     return toronto_map
 
 # define function to visualize the top5 jobs, languages and food of selected neighborhood on sunburst figure
@@ -125,9 +125,7 @@ def create_sunburst(result_df,ID=0):
 	result_df=pd.DataFrame({'Factor':factor,'Top5':top5,'Percent':percent})
 	sunburst_fig=px.sunburst(result_df,
 							 path=['Factor','Top5'],
-							 values='Percent',
-							 color='Percent',
-							 color_continuous_scale='teal')
+							 values='Percent')
 	hovertemplate='<br>%{label}'\
 		          '<br>%{value:.3s}%'
 	sunburst_fig.data[0]['hovertemplate']=hovertemplate
