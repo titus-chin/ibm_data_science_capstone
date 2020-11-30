@@ -2,8 +2,8 @@ dash==1.17.0
 dash-core-components==1.13.0
 dash-html-components==1.1.1
 gunicorn==20.0.4
-ipywidgets==7.5.1
 numpy==1.17.4
 pandas==0.25.3
 plotly==4.12.0
 requests==2.22.0
+flask-caching==1.9.0
