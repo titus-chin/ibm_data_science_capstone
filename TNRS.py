@@ -8,17 +8,10 @@ import plotly.graph_objs as go
 import pandas as pd
 import numpy as np
 import requests
-from flask_caching import Cache
-import os
 
 # initialize dash app
 app=dash.Dash(__name__)
 server=app.server
-cache = Cache(app.server, config={
-    'CACHE_TYPE': 'filesystem',
-    'CACHE_DIR': 'cache-directory'
-})
-CACHE_TIMEOUT = int(os.environ.get('DASH_CACHE_TIMEOUT', '60'))
 
 # read all data required
 percent_jobs_df=pd.read_csv('https://raw.githubusercontent.com/titus-chin/Toronto-Neighborhoods-Recommender-System/main/Data/percent_jobs.csv')
@@ -156,7 +149,6 @@ def create_indicator(result_df,ID=0):
 	indicator.update_layout(margin={'r':0,'t':0,'l':0,'b':0},**fig_layout_defaults)
 	return indicator
 
-@cache.memoize(timeout=CACHE_TIMEOUT)
 # define function to get the score of each neighborhood
 def get_score(jobs,language,food,job_weightage,hai_weightage,safety_weightage,language_weightage,food_weightage):
     result_df=norm_jobs_df.iloc[:,0:2]
