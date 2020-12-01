@@ -88,3 +88,9 @@ body {
     position: relative !important;
 }
 
+*[data-dash-is-loading="true"]::before{
+    content: "Loading...";
+    display: inline-block;
+    color: red;
+    visibility: visible;
+}
