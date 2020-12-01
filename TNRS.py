@@ -56,7 +56,7 @@ def create_map(result_df,ID=0,zoom=10,center={'lat':43.7047983,'lon':-79.3680904
                                      geojson=toronto_geojson,
                                      color='Score',
                                      locations='ID',
-                                     color_continuous_scale='hot',
+                                     color_continuous_scale='teal',
                                      featureidkey='properties.AREA_SHORT_CODE',
                                      mapbox_style='carto-positron',
                                      hover_data=['Rank','Neighborhood','Score'],
