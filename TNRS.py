@@ -39,7 +39,7 @@ fig_layout_defaults=dict(plot_bgcolor='#F9F9F9',paper_bgcolor='#F9F9F9')
 about_md='''
 ### Toronto's Neighborhoods Recommender System
 
-Read this [article]() to learn how to create such recommender system. Checkout the [GitHub repository](https://github.com/titus-chin/Toronto-Neighborhoods-Recommender-System) for the source code.
+Read this [article](https://www.linkedin.com/pulse/torontos-neighborhoods-recommender-system-titus-chin/?published=t) to learn how to create such recommender system. Checkout the [GitHub repository](https://github.com/titus-chin/Toronto-Neighborhoods-Recommender-System) for the source code.
 
 Created by:  
 [Titus Chin Jun Hong](https://www.linkedin.com/in/titus-chin-a17ba41bb/)  
